@@ -1,2 +1,16 @@
-# Pratica03
-- Crie um repositório na ferramenta GitHub chamado pratica3; - Clone o repositório e crie dentro dele um projeto Flutter pela ferramenta Android Studio; - Envie os arquivos do projeto para o repositório; - Adicione o link do repositório na entrega desta atividade.
+# atv3
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
